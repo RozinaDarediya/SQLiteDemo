@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+
+    <!-- Related to error mas  -->
+    <string name="txt_ok">OK</string>
+
+    <!-- Related to error mas  -->
+    <string name="error_msg">This field can not be empty</string>
+    <string name="email_validation">Please Enter valid email address</string>
+
+    <!-- Related to AddDataActivity  -->
+    <string name="Emp_name">Employee Name</string>
+    <string name="emp_num">Employee Number</string>
+    <string name="emp_email">Employee Email</string>
+    <string name="emp_dept">Employee Depeartment</string>
+    <string name="emp_cnt">Employee Contact Number</string>
+    <string name="btn_add">Add Data</string>
+    <string name="text_msg"><u>Employee Details</u></string>
+
+
+
+
+</resources>
